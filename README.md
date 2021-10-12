@@ -1,4 +1,4 @@
-## Olá! Eu sou a Carol 
+## Olá! Eu sou a Carol 💕
 
 <div align="center">
   <a href="https://github.com/carollinecsta">
