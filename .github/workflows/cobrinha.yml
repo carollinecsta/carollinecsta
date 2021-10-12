@@ -10,7 +10,7 @@ empregos :
     nome : Trabalhos para atualizar dados
     roda em : ubuntu-mais recente
     passos :
-      # Animação de cobra
+      # Snake Animation
       - usa : Platane / snk @ master
         id : snake-gif
         com :
