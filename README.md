@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Carol 💕
 
 <div align="center">
-  <a href="https://github.com/carollineorz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carollineorz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollineorz&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/carollinecsta">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carollinecsta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinecsta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,9 +17,7 @@
   
  <div> 
 
- <a href="https://discord.gg/carollinecsta#5314" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carollinemoreira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
   ![Snake Animation](https://github.com/carollinecsta/carollinecsta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
